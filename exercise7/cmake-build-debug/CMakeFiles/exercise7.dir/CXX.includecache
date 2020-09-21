@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise7/DrawPrimitives.h
+GLFW/glfw3.h
+-
+math.h
+-
+
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise7/main.cpp
+GLFW/glfw3.h
+-
+DrawPrimitives.h
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise7/DrawPrimitives.h
+iostream
+-
+

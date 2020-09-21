@@ -1,0 +1,3 @@
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkay/MEGAsync/TUM/Augmented Reality/exercise3/cmake-build-debug/CMakeFiles/exercise3.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exercise7.dir/main.cpp.o  -o exercise7 /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 
